@@ -1204,3 +1204,12 @@ body.dark-theme {
     right: 3rem;
   }
 }
+
+  /*========== Signup ==========*/
+.contactSection form{
+  width: 100% !important;
+}
+.contactSection form .error{
+  font-size: 14px;
+  color: red;
+}
